@@ -1,0 +1,5 @@
+# Database
+sqlite-utils>=3.35.0
+
+# Input validation
+pydantic>=2.5.0 
